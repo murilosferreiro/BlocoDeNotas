@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Microsoft Visual Studio\\Aulas\\udemy\\bloco de notas\\bloco de notas\\bloco de notas.csproj": {}
+    "C:\\Users\\Murilo\\Desktop\\Exercicios\\Bloco de notas\\BlocoDeNotas\\bloco de notas\\bloco de notas.csproj": {}
   },
   "projects": {
-    "E:\\Microsoft Visual Studio\\Aulas\\udemy\\bloco de notas\\bloco de notas\\bloco de notas.csproj": {
+    "C:\\Users\\Murilo\\Desktop\\Exercicios\\Bloco de notas\\BlocoDeNotas\\bloco de notas\\bloco de notas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Microsoft Visual Studio\\Aulas\\udemy\\bloco de notas\\bloco de notas\\bloco de notas.csproj",
+        "projectUniqueName": "C:\\Users\\Murilo\\Desktop\\Exercicios\\Bloco de notas\\BlocoDeNotas\\bloco de notas\\bloco de notas.csproj",
         "projectName": "bloco de notas",
-        "projectPath": "E:\\Microsoft Visual Studio\\Aulas\\udemy\\bloco de notas\\bloco de notas\\bloco de notas.csproj",
+        "projectPath": "C:\\Users\\Murilo\\Desktop\\Exercicios\\Bloco de notas\\BlocoDeNotas\\bloco de notas\\bloco de notas.csproj",
         "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
-        "outputPath": "E:\\Microsoft Visual Studio\\Aulas\\udemy\\bloco de notas\\bloco de notas\\obj\\",
+        "outputPath": "C:\\Users\\Murilo\\Desktop\\Exercicios\\Bloco de notas\\BlocoDeNotas\\bloco de notas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

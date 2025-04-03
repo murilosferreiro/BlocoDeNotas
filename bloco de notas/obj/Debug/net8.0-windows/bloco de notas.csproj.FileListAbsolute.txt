@@ -15,3 +15,21 @@ E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\n
 E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.genruntimeconfig.cache
 E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\ref\bloco de notas.dll
 E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco_de_notas.Form2.resources
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.exe
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.deps.json
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.runtimeconfig.json
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.dll
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.pdb
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco_de_notas.Form1.resources
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco_de_notas.Form2.resources
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.csproj.GenerateResource.cache
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.AssemblyInfoInputs.cache
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.AssemblyInfo.cs
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.sourcelink.json
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.dll
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\refint\bloco de notas.dll
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.pdb
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.genruntimeconfig.cache
+C:\Users\Murilo\Desktop\Exercicios\Bloco de notas\BlocoDeNotas\bloco de notas\obj\Debug\net8.0-windows\ref\bloco de notas.dll

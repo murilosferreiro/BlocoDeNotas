@@ -49,6 +49,7 @@
             // 
             // textBox1
             // 
+            textBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             textBox1.Location = new Point(0, 27);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
@@ -109,7 +110,7 @@
             // substituirToolStripMenuItem
             // 
             substituirToolStripMenuItem.Name = "substituirToolStripMenuItem";
-            substituirToolStripMenuItem.Size = new Size(180, 22);
+            substituirToolStripMenuItem.Size = new Size(159, 22);
             substituirToolStripMenuItem.Text = "Substituir";
             substituirToolStripMenuItem.Click += substituirToolStripMenuItem_Click;
             // 
@@ -117,7 +118,7 @@
             // 
             naSeleçãoToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { pesquisarNaInternetToolStripMenuItem });
             naSeleçãoToolStripMenuItem.Name = "naSeleçãoToolStripMenuItem";
-            naSeleçãoToolStripMenuItem.Size = new Size(180, 22);
+            naSeleçãoToolStripMenuItem.Size = new Size(159, 22);
             naSeleçãoToolStripMenuItem.Text = "Na Seleção";
             // 
             // pesquisarNaInternetToolStripMenuItem
@@ -131,7 +132,7 @@
             // 
             copiarToolStripMenuItem.Name = "copiarToolStripMenuItem";
             copiarToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.C;
-            copiarToolStripMenuItem.Size = new Size(180, 22);
+            copiarToolStripMenuItem.Size = new Size(159, 22);
             copiarToolStripMenuItem.Text = "Copiar";
             copiarToolStripMenuItem.Click += copiarToolStripMenuItem_Click;
             // 
@@ -139,7 +140,7 @@
             // 
             colarToolStripMenuItem.Name = "colarToolStripMenuItem";
             colarToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.V;
-            colarToolStripMenuItem.Size = new Size(180, 22);
+            colarToolStripMenuItem.Size = new Size(159, 22);
             colarToolStripMenuItem.Text = "Colar";
             colarToolStripMenuItem.Click += colarToolStripMenuItem_Click;
             // 
@@ -147,7 +148,7 @@
             // 
             recortarToolStripMenuItem.Name = "recortarToolStripMenuItem";
             recortarToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.X;
-            recortarToolStripMenuItem.Size = new Size(180, 22);
+            recortarToolStripMenuItem.Size = new Size(159, 22);
             recortarToolStripMenuItem.Text = "Recortar";
             recortarToolStripMenuItem.Click += recortarToolStripMenuItem_Click;
             // 
@@ -155,7 +156,7 @@
             // 
             apagarToolStripMenuItem.Name = "apagarToolStripMenuItem";
             apagarToolStripMenuItem.ShortcutKeys = Keys.Delete;
-            apagarToolStripMenuItem.Size = new Size(180, 22);
+            apagarToolStripMenuItem.Size = new Size(159, 22);
             apagarToolStripMenuItem.Text = "Apagar";
             apagarToolStripMenuItem.Click += apagarToolStripMenuItem_Click;
             // 
