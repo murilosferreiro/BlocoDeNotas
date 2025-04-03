@@ -1,0 +1,17 @@
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.exe
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.deps.json
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.runtimeconfig.json
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.dll
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\bin\Debug\net8.0-windows\bloco de notas.pdb
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco_de_notas.Form1.resources
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.AssemblyInfoInputs.cache
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.AssemblyInfo.cs
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.dll
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\refint\bloco de notas.dll
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.pdb
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco de notas.genruntimeconfig.cache
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\ref\bloco de notas.dll
+E:\Microsoft Visual Studio\Aulas\udemy\bloco de notas\bloco de notas\obj\Debug\net8.0-windows\bloco_de_notas.Form2.resources

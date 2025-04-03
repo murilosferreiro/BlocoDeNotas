@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "bloco de notas/1.0.0": {
+        "runtime": {
+          "bloco de notas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bloco de notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
