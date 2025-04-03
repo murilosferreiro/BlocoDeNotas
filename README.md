@@ -1,6 +1,6 @@
 # BlocoDeNotas
 
-[!Print](print.png)
+![Print](print.png)
 
 Bloco de notas feito em C# para fins de aprendizado.
 
